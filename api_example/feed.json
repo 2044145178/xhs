@@ -1,0 +1,143 @@
+{
+  "code": 0,
+  "success": true,
+  "msg": "成功",
+  "data": {
+    "cursor_score": "",
+    "items": [
+      {
+        "id": "666cd486000000001c036754",
+        "model_type": "note",
+        "note_card": {
+          "tag_list": [
+            {
+              "id": "5eec2c7a00000000010031d2",
+              "name": "家长必读",
+              "type": "topic"
+            },
+            {
+              "type": "topic",
+              "id": "62be67180000000001007b34",
+              "name": "高考志愿填报"
+            }
+          ],
+          "at_user_list": [],
+          "last_update_time": 1718408327000,
+          "ip_location": "河北",
+          "type": "video",
+          "interact_info": {
+            "comment_count": "286",
+            "share_count": "60",
+            "followed": false,
+            "relation": "none",
+            "liked": false,
+            "liked_count": "868",
+            "collected": false,
+            "collected_count": "272"
+          },
+          "video": {
+            "media": {
+              "video_id": 136916498641346500,
+              "video": {
+                "hdr_type": 0,
+                "drm_type": 0,
+                "stream_types": [
+                  259
+                ],
+                "biz_name": 110,
+                "biz_id": "281031686801811284",
+                "duration": 9,
+                "md5": "866f084ad5bf7591e9ad8c5f5186958c"
+              },
+              "stream": {
+                "h265": [],
+                "av1": [],
+                "h264": [
+                  {
+                    "format": "mp4",
+                    "fps": 30,
+                    "video_bitrate": 968414,
+                    "stream_desc": "WM_X264_MP4",
+                    "ssim": 0,
+                    "duration": 8242,
+                    "height": 1280,
+                    "video_codec": "h264",
+                    "audio_bitrate": 65388,
+                    "master_url": "http://sns-video-hw.xhscdn.net/stream/110/259/01e66cd481685fb80103700390191e6142_259.mp4",
+                    "quality_type": "HD",
+                    "stream_type": 259,
+                    "volume": 0,
+                    "audio_duration": 8241,
+                    "weight": 62,
+                    "size": 1055901,
+                    "default_stream": 0,
+                    "width": 720,
+                    "avg_bitrate": 1024897,
+                    "psnr": 0,
+                    "video_duration": 8100,
+                    "audio_channels": 2,
+                    "hdr_type": 0,
+                    "vmaf": -1,
+                    "backup_urls": [
+                      "http://sns-video-bd.xhscdn.com/stream/110/259/01e66cd481685fb80103700390191e6142_259.mp4",
+                      "http://sns-video-hw.xhscdn.com/stream/110/259/01e66cd481685fb80103700390191e6142_259.mp4",
+                      "http://sns-video-qc.xhscdn.com/stream/110/259/01e66cd481685fb80103700390191e6142_259.mp4?sign=85710d025162e74ced3094ef9961b01e&t=6684af3b",
+                      "http://sns-video-al.xhscdn.com/stream/110/259/01e66cd481685fb80103700390191e6142_259.mp4"
+                    ],
+                    "rotate": 0,
+                    "audio_codec": "aac"
+                  }
+                ]
+              }
+            },
+            "image": {
+              "thumbnail_fileid": "110/0/01e66cd481685fb800100000000190191e3e0f_0.webp"
+            },
+            "capa": {
+              "duration": 8
+            },
+            "consumer": {
+              "origin_video_key": "pre_post/1040g0cg3141v5t0p2c005pinp7g1ohanhlceuc8"
+            }
+          },
+          "share_info": {
+            "un_share": false
+          },
+          "title": "",
+          "time": 1718408326000,
+          "user": {
+            "nickname": "高考",
+            "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo313ddn6pig2005pinp7g1ohan7rr41t8",
+            "user_id": "6657c9e00000000007004557"
+          },
+          "image_list": [
+            {
+              "width": 1080,
+              "url": "",
+              "url_pre": "http://sns-webpic-qc.xhscdn.com/202407030954/0f535990a0e2070f8056988d3786dfc7/1040g2sg3141v6018ic705pinp7g1ohan99nphs8!nd_prv_wlteh_webp_3",
+              "url_default": "http://sns-webpic-qc.xhscdn.com/202407030954/76ed6ff3d09d71470a09d36843b170f2/1040g2sg3141v6018ic705pinp7g1ohan99nphs8!nd_dft_wlteh_webp_3",
+              "live_photo": false,
+              "file_id": "",
+              "height": 1920,
+              "trace_id": "",
+              "info_list": [
+                {
+                  "image_scene": "WB_PRV",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202407030954/0f535990a0e2070f8056988d3786dfc7/1040g2sg3141v6018ic705pinp7g1ohan99nphs8!nd_prv_wlteh_webp_3"
+                },
+                {
+                  "image_scene": "WB_DFT",
+                  "url": "http://sns-webpic-qc.xhscdn.com/202407030954/76ed6ff3d09d71470a09d36843b170f2/1040g2sg3141v6018ic705pinp7g1ohan99nphs8!nd_dft_wlteh_webp_3"
+                }
+              ],
+              "stream": {}
+            }
+          ],
+          "note_id": "666cd486000000001c036754",
+          "desc": "643分这个分数上个985.211或者是一本都没有问题。填报96个志愿后，考这么高的分数都是孩子一天天一夜夜熬夜熬出来的，所以家长们，填志愿真的不是开玩笑的事情，不要指望任何人。做一个前膽性的家长应该是更早的去替孩子了解和筛选出好的院校和专业！#家长必读[话题]# #高考志愿填报[话题]#"
+        }
+      }
+    ],
+    "current_time": 1719971643726
+  }
+}
