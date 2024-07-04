@@ -11,7 +11,7 @@
 ## 项目使用配置
 在config.js文件中配置
 * b1：浏览器指纹，可能需要前端调试获取（当前不确定是否可以配置相同指纹）
-* cookie_a1：浏览器内cookie中的a1字段
+* cookie_a1：在web端登录小红书帐号后，浏览器内cookie中的a1字段
 ## 安装依赖
 ```shell
 npm i
