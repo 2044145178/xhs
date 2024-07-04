@@ -9,9 +9,8 @@ import * as fs from 'node:fs';
 import ProgressBar from 'progress';
 import {SingleBar} from 'cli-progress';
 
-
+axios.defaults.baseURL = baseURL
 async function main(index = 512 * 67) {
-    axios.defaults.baseURL = baseURL
     const feeds = []
     const fs_path = './data/'
 
@@ -31,8 +30,6 @@ async function main(index = 512 * 67) {
 
         while (index < total_size) {
             const homefeed_items = (await homefeed(batch_size, index)).data.items
-            console.log(homefeed_items)
-            return
             for (let i = 0; i < homefeed_items.length; i += concurrency) {
                 let block = homefeed_items.slice(i, i + concurrency);
                 const promises = block.map((item) => feed(item.id, item.xsec_token))
