@@ -10,7 +10,7 @@ import ProgressBar from 'progress';
 import {SingleBar} from 'cli-progress';
 
 axios.defaults.baseURL = baseURL
-async function main(index = 512 * 67) {
+async function main(index = 512 * 0) {
     const feeds = []
     const fs_path = './data/'
 
