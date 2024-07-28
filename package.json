@@ -8,6 +8,7 @@
     "cli-progress": "^3.12.0",
     "crypto-js": "^4.2.0",
     "fs": "^0.0.1-security",
+    "jsdom": "^24.1.1",
     "progress": "^2.0.3"
   },
   "name": "xhs",

@@ -1,3 +1,5 @@
+import {cookie_a1} from "../../config.js";
+
 function a0_0x1131() {
     var t = ["loSen", "navigat", "ObwNo", "qPbcq", "7182692QogvXX", "tvqSn", "DGptJ", "HhTfW", "avIYx", "defineP", "PFQbW", "CjFyM", "toStrin", "yMWXS", "yMyOy", "0XTdDgM", "eXkru", "_blocks", "indexOf", "mbBQr", "lBuRH", "HzGjH", "HNErV", "mEokX", "userAge", "UpmtD", "sgomx", "KDfKS", "OTbSq", "lxMGW", "0|3|2|1", "dfWyB", "lWzAd", "eyXTL", "5624qreyZK", "pow", "IJstz", "LMlMB", "INlwI", "lRulU", "TCgZh", "_digest", "UBhIl", "fLtZZ", "FYSKq", "2|8|0", "IoCeZ", " Object", "UuTvI", "lNKLD", "String", "Bytes", "rBVvW", "KblCWi+", "pRaIH", "roperty", "vTINI", "atLE", "functio", "Udqoy", "nt ", "htSWx", "hEwRK", "encodin", "sCSVK", "VuAZF", "xeIIy", "RBjMb", "taTrq", "vDLFJ", "bPkya", "HzimH", "nCffO", "BWbtU", "2|8", "slice", "lxMGQ", "tTiwe", "JDhJB", "rCode", "gNDzY", "wJkyu", "cCZFe", "RNGSl", "floor", "clYIu", "vLiwz", "BiNSE", "MtYWB", "fromCha", "StNOc", "|7|5|3|", "9|1|4|6", "length", "UNYAE", "pngG8yJ", "hasOwnP", "pYeWu", "wTjkk", "Bvk6/7=", "KTmgk", "bIGxm", "readFlo", "LFZch", "_ff", "1|3|4|2", "binary", "LLdJZ", "ZofOU", "6399uFPxTQ", "push", "YntPT", "kSGXO", "random", "HfpCU", "hECvuRX", "getTime", "iwSyV", "alert", "LKMcb", "DJVdg", "Hex", "URzKO", "CxjtF", "ZVOCs", "isBuffe", "vGpbT", "rotl", "udFrB", "CnbsH", "crLST", "xUKNL", "jUrZI", "rviFu", "join", "get", "LjDtD", "ZJHyP", "wOmGY", "enumera", "aONWR", "string", "kQpMi", "mZPJZ", "Ysiay", "czxKn", "|5|6|4|", "prototy", "jklmnop", "MuYbw", "diDwk", "TRFtx", "drDHI", "WLARA", "xyz0123", "asBytes", "|6|0|1|", "JOtEi", "Oialn", "OQrEi", "uPnXq", "VWXYZab", "cIbFa", "qYuta", "QDOZZ", "MahgM", "iRXZq", "22098XlFGYn", "mmLKn", "jMcIE", "stringi", "[object", "nYqUQ", "jSgjk", "ucyEo", "iewJI", "vgTwl", "DnNGR", "oBytes", "Xtwzk", "aqlTy", "JWnPK", "1|0|2|4", "qrstuvw", "_gg", "QLthP", "FJIWy", "yRnhISG", "pjUsr", "KAwuh", "Thhoa", "jarkJ", "WjRNN", "asStrin", "x3VT16I", "357835LaQWjW", "SkIJl", "size", "iyorr", "iHUeL", "tTanW", "tNusJ", "NiSrP", "eAt", "TCArD", "a2r1ZQo", "iamspam", "bOnfu", "UNSKg", "HIJKLMN", "ZfMKC", "bJhXU", "zwAAc", "JYxWY", "lUAFM97", "mwaRe", "EzYWD", "replace", "uOtUJ", "__esMod", "ViQWI", "aCMFL", "EAKSd", "ule", "pqnFP", "qYDsL", "270726pnaYfG", "glBZG", "OwjMq", "YGrjc", "ZhAcd", "JDqFL", "456789+", "kEjQs", "lWhbD", "OaLTI", "dXlgm", "cVte9UJ", "ctor", "hwomB", "wDtJz", "constru", "ABHuC", "zDETq", "SYNeA", "BGbij", "ionFq", "QzaNS", "7|3|5|4", "YlZGp", "Bjniw", "ZITuN", "KPTzH", "HrBeq", "xobsT", "kXJkC", "QSrEZ", "ENXtO", "FYbRJ", "wOcza/L", "_hh", "dVXMb", "ppkua", "WgamZ", "HuwCW", "362424fnLCuh", "charCod", "HhPqg", "ODunI", "eJzqq", "charAt", "JGAgI", "ZmserbB", "TURcG", "WyrqF", "iYJzH", "VIwfH", "tzzOB", "YgiCH", "byyMQ", "ELxEv", "0DSfdik", "HRihr", "_ii", "aDsrp", "ble", "jTGtW", "configu", "cXiYW", "56kSpAsC", "158KIldlA", "oHQtNP+", "BHavO", "PCIlh", "QatIf", "IKyqh", "Words", "Qwnrg", "44lQAgNu", "cdefghi", "nTwxD", "RHteb", "coqPr", "rJwmI", "aBoeK", "default", "exports", "rceYY", "isArray", "mdKKO", "kzxWE", "DeBtm", "tjjUn", "vJEcD", "LpfE8xz", "bin", "HKazo", "rable", "call", "wordsTo", "zBiyt", "GrsGL", "fqulF", "jevwl", "mxfLj", "xlUnt", "q42KWYj", "endian", "eEqDc", "oyGAZ", "bytesTo", "OzjuJ", "IfwWq", "ize", "6648810piiNEz", "lTHdy", "vDLZJ", "stringT", "A4NjFqY", "GkjTz", "eooJA", "substr", "veNiI", "LYfDp", "ljKsP", "jJYWG", "bcYAf", "srikB", "utf8", "qTbeY", "yqRzd", "|3|5", "bjbAy", " Array]", "rMbXP", "u5wPHsO", "test", "gMIMC", "Deyqv", " argume", "ABCDEFG", "undefin", "split", "QTlsj", "_isBuff", "OPQRSTU", "Illegal"];
     return (a0_0x1131 = function() {
@@ -303,7 +305,6 @@ function encrypt_b64Encode(t) {
         break
     }
 }
-
 var encrypt_mcr = function(t) {
     var e = 67
         , r = 15
@@ -447,16 +448,14 @@ export const x_s_common=(x_s,x_t,b1)=>{
         "s0": 5,//固定值，web端为：5
         "s1": "",//固定值，web端为：空
         "x0": "1",//固定值，web端为：1
-        "x1": "3.6.8",//固定值,版本号，当前版本为："3.6.8",
+        "x1": "3.7.8-2",//固定值,版本号，当前版本为："3.6.8",
         "x2": "Windows",//固定值"Windows",表示平台类型。
         "x3": "xhs-pc-web",//固定值，程序类型
-        "x4": "4.23.1",//固定值，内部版本号
-        "x5": "18a5ad1f076t0yctcdwa6bdda1tpax0wy6x5p2wlt50000167712",//该值为：a1，从cookie中获取。
+        "x4": "4.26.0",//固定值，内部版本号
+        "x5": `${cookie_a1}`,//该值为：a1，从cookie中获取。
         "x6": x_t,//该值为：x-t
-
         //该值为：X-S
         "x7": x_s,
-
         //该值为：浏览器指纹，每个浏览器值不同，但基本上可以固定不变。
         "x8": b1,
         //encrypt_mcr(xt+xs+b1);其中xt=x6,xs=x7,b1=x8

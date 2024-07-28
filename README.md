@@ -7,12 +7,14 @@
 * utils：封装的几个工具函数
 * config.js：项目配置文件，主要是cookie
 * index.js：项目主入口,当前只写了爬取系统推荐的笔记（高考类别）示例，可以根据需求调用api接口进行改造
+* test.js：测试程序，爬取系统推荐的笔记（高考类别）32篇
 ## 运行环境
 * Node.js v20.11.1
 ## 项目使用配置
 在config.js文件中配置
 * b1：浏览器指纹，可能需要前端调试获取（当前不确定是否可以配置相同指纹）
 * cookie_a1：在web端登录小红书帐号后，浏览器内cookie中的a1字段
+* my_cookie:完整的cookie字符串。可通过浏览器访问https://edith.xiaohongshu.com/api/sns/web/v1/homefeed，用F12，在header部分的cookie中复制。
 ## 安装依赖
 ```shell
 npm i
@@ -58,3 +60,4 @@ npm run test
 
 ## 小红书平台爬虫限制
 当前（2024.7.4），实测在128请求并发（无主动时延），调用10w次feed接口后，帐号被限制
+

@@ -4,8 +4,11 @@ import axios from "axios";
 import {baseURL} from "./config.js";
 import * as fs from 'node:fs';
 
+function init() {
+    axios.defaults.baseURL = baseURL
+}
 
-axios.defaults.baseURL = baseURL
+init()
 async function test() {
     const batch_size = 32//获取数量
     const index = 0//首页推荐笔记的索引
