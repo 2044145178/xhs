@@ -17,7 +17,7 @@ export const sub_comment = async (note_id,root_comment_id, cursor="") => {
         "top_comment_id": ""
     }
     const url = '/api/sns/web/v2/comment/sub/page'
-    const temp_sign =await get_xs_xt(url,data,cookie_a1)
+    const temp_sign =await get_xs_xt(url+'?'+obj.makeSign(data),undefined,cookie_a1)
     const x_s=temp_sign['X-s']
     const x_t=temp_sign['X-t']
     return (await axios.get(url, {

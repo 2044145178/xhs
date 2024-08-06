@@ -9,4 +9,5 @@ let obj = {
 }
 
 export default obj;
+
 // 带小数点的不可以使用
