@@ -1,6 +1,6 @@
 //feed接口，即根据笔记ID获取笔记详情
 import axios from "axios";
-import {X_S} from "../sign/X-S/X-S_deprecated.js";
+import {X_S} from "../his/X-S_deprecated.js";
 import {x_s_common} from "../sign/X-S-Common/X-S-Common.js";
 import {b1, my_cookie,cookie_a1} from "../config.js";
 import {getRamNumber} from "../utils/random.js";

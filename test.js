@@ -42,6 +42,6 @@ async function test_sub_comment() {
     const root_comment_id='66ab7c87000000001c03eb33'
     console.log(await sub_comment(note_id,root_comment_id))
 }
-// test_page_comment()
+test_page_comment()
 // test_sub_comment()
-test()
+// test()
